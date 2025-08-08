@@ -10,7 +10,7 @@ We are a group of students who love **AI** and **generative art**, bringing toge
 ---
 
 ## 🚀 Current Focus
-We are building **EasytoCreate** — a full-process **video generation platform** designed to enable *everyone* to easily create **high-quality video content**.
+We are building **EasyVideo** — a full-process **video generation platform** designed to enable *everyone* to easily create **high-quality video content**.
 
 ---
 
